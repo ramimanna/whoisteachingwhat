@@ -1,0 +1,120 @@
+6.0001 (6.0002),Intro to Computer Science Programming in Python,Ana,Bell,Lecturer
+6.0001 (6.0002),Intro to Computer Science Programming in Python, W. Eric,Grimson,Lecturer
+6.0001 (6.0002),Intro to Computer Science Programming in Python, John V.,Guttag,Lecturer
+6.002,Circuits & Electronics, Jeffrey H.,Lang,Recitation Instructor
+6.002,Circuits & Electronics, Karl K.,Berggren,Lecturer
+6.002,Circuits & Electronics,Ruonan,Han,Recitation Instructor
+6.003,Signals & Systems, Alexandre,Megretski,Lecturer
+6.003,Signals & Systems, Akintunde I.,Akinwande,Recitation Instructor
+6.004,Computation Structures,Christopher J.,Terman,Lecturer
+6.004,Computation Structures,Silvina,Hanono Wachman,Lecturer
+6.004x,Computation Structures (MITx),Silvina,Hanono Wachman,Co-Lecturer
+6.005,Elements of Software Construction,Max,Goldman,Lecturer
+6.005,Elements of Software Construction, Armando,Solar Lezama,Co-Lecturer
+6.005x,Software Construction (MITx), Robert C.,Miller,Lecturer
+6.006,Intro to Algorithms, Ronitt,Rubinfeld,Co-Lecturer
+6.006,Intro to Algorithms, Erik D.,Demaine,Co-Lecturer
+6.006,Intro to Algorithms,Debayan,Gupta,Co-Lecturer
+6.007,Electromagnetic Energy: From Motors to Lasers, Rajeev J.,Ram,Lecturer
+6.008,Introduction to Inference, Polina,Golland,Lecturer
+6.008,Introduction to Inference, Gregory W.,Wornell,Lecturer
+6.009,Fundamentals of Programming, Adam,Chlipala,Lecturer
+6.009,Fundamentals of Programming,Christopher J.,Terman,Co-Lecturer
+6.01,Introduction to EECS 1, Tomas A.,Palacios,Recitation Instructor
+6.01,Introduction to EECS 1, Duane S.,Boning,Recitation Instructor
+6.01,Introduction to EECS 1,Joseph D.,Steinmeyer,Recitation Instructor
+6.01,Introduction to EECS 1,Adam,Hartz,Lecturer
+6.01,Introduction to EECS 1, Joel,Voldman,Recitation Instructor
+6.012,Electronic Devices & Circuits, Jing,Kong,Lecturer
+6.02,Introduction to EECS II, Pablo,Parrilo,Recitation Instructor
+6.02,Introduction to EECS II,Brian,Anthony,Recitation Instructor
+6.02,Introduction to EECS II,Katrina L.,LaCurts,Lecturer
+6.02,Introduction to EECS II,Mark S.,Day,Recitation Instructor
+6.02,Introduction to EECS II, Yury,Polyanskiy,Recitation Instructor
+6.021J (6.521J),Quant Physio:Cells & Tiss,Thomas,Heldt,Lecturer
+6.025J (6.525J),Medical Device Design,Gim P.,Hom,Co-Lecturer
+6.034,Artificial Intelligence, Patrick H.,Winston,Lecturer
+6.034,Artificial Intelligence, Robert C.,Berwick,Recitation Instructor
+6.035,Computer Language Eng, Martin C.,Rinard,Lecturer
+6.041 (6.431),Probabilistic Systems Analysis,Tamara,Broderick,Recitation Instructor
+6.041 (6.431),Probabilistic Systems Analysis,Guy,Bresler,Recitation Instructor
+6.041 (6.431),Probabilistic Systems Analysis, Lizhong,Zheng,Lecturer
+6.042J,Math for Computer Science,F. Thomson,Leighton,Lecturer
+6.042J,Math for Computer Science,Ankur,Moitra,Lecturer
+6.046J,Design and Analysis of Algorithms, Nir N.,Shavit,Co-Lecturer
+6.046J,Design and Analysis of Algorithms, Shafrira,Goldwasser,Co-Lecturer
+6.046J,Design and Analysis of Algorithms,Vinod,Vaikuntanathan,Co-Lecturer
+6.047 (6.878),Comp Bio: Gen  Net  Evol, Manolis,Kellis,Lecturer
+6.070J,Electonics Proj Lab,James W.,Bales,Lecturer
+6.111,Intro Digital Systems Lab,Gim P.,Hom,Lecturer
+6.131,Power Electronics Laboratory, Steven B.,Leeb,Lecturer
+6.152J,Micro/Nano Processing Technology ,Luis,Velasquez-Heller,Lecturer
+6.161,Modern Optics Proj Lab, Cardinal,Warde,Lecturer
+6.163,Strobe Project Lab,James W.,Bales,Lecturer
+6.169,Theory and Application of Circuits and Electronics, Karl K.,Berggren,Lecturer
+6.170,Lab in Software Engineering, Daniel N.,Jackson,Lecturer
+6.170,Lab in Software Engineering, David K.,Gifford,Lecturer
+6.172 (6.871),Performance Engineering of Software Systems, Charles E.,Leiserson,Lecturer
+6.172 (6.871),Performance Engineering of Software Systems, Saman P.,Amarasinghe,Lecturer
+6.175,Constructive Computer Architecture,Arvind,Mithal,Lecturer
+6.251J,Intro: Math Programming, John N.,Tsitsiklis,Lecturer
+6.301,Solid-State Circuits, Hae-Seung,Lee,Lecturer
+6.301,Solid-State Circuits,Ruonan,Han,Recitation Instructor
+6.336J,Intro Numerical Simulation, Luca,Daniel,Lecturer
+6.338J,Parallel Computing,Alan,Edelman,Lecturer
+6.339J,Numerical Methods for PDEs, Jacob K.,White,Lecturer
+6.341,Discrete-Time Signal Processing,James,Ward,Lecturer
+6.374,Analysis & Design of Digital ICs,Vivienne,Sze,Lecturer
+6.434J,Statistics with Engineering Applications,Moe Z.,Win,Lecturer
+6.436J,Fundamentals of Probability,David,Gamarnik,Lecturer
+6.438,Algorithms for Estimation and Inference, Devavrat,Shah,Lecturer
+6.450,Intro to Digital Communication, Vincent W. S.,Chan,Lecturer
+6.453,Quantum Optical Communication, Jeffrey H.,Shapiro,Lecturer
+6.556J,Data Acquisition & Image Reconstruct in MRI, Elfar,Adalsteinsson,Lecturer
+6.561J,Fields Forces and Flows, Alan J.,Grodzinsky,Lecturer
+6.580J (6.589J),Principles of Synthetic Biology, Ron,Weiss,Lecturer
+6.630,Electromagnetic Waves,Robert T. I.,Shin,Lecturer
+6.631,Optics and Photonics, James G.,Fujimoto,Lecturer
+6.637,Optical Info Proc, Cardinal,Warde,Lecturer
+6.701 (6.719),Introduction to Nano Electronics, Marc A.,Baldo,Lecturer
+6.720J,Integrated Microelectr Devices, Dimitri A.,Antoniadis,Lecturer
+6.720J,Integrated Microelectr Devices, Jesus A.,del Alamo,Recitation Instructor
+6.728,Appl Quantum & Statistical Phys, Peter L.,Hagelstein,Lecturer
+6.732,Physics of Solids, Qing,Hu,Lecturer
+6.801 (6.866),Machine Vision, Berthold K. P.,Horn,Lecturer
+6.804J,Computational Cognitive Science,Joshua B.,Tenenbaum,Lecturer
+6.805J,Foundations of Information Policy,Daniel J.,Weitzner,Lecturer
+6.805J,Foundations of Information Policy, Harold,Abelson,Lecturer
+6.811,Principles and Practice of Assistive Technology, Robert C.,Miller,Lecturer
+6.811,Principles and Practice of Assistive Technology,Julie E.,Greenberg,Lecturer
+6.819,Advances in Computer Vision, Antonio,Torralba,Lecturer
+6.828,Operating System Engineering, M. Frans,Kaashoek,Lecturer
+6.828,Operating System Engineering, Robert T.,Morris,Lecturer
+6.829,Computer Networks, Hari,Balakrishnan,Co-Lecturer
+6.829,Computer Networks,Mohammad,Alizadeh,Co-Lecturer
+6.830 (6.814),Database Systems, Samuel R.,Madden,Lecturer
+6.830 (6.814),Database Systems,Matei,Zaharia,Co-Lecturer
+6.832,Underactuated Robotics, Russell L.,Tedrake,Lecturer
+6.837,Computer Graphics, Wojciech,Matusik,Lecturer
+6.837,Computer Graphics,Justin,Solomon,Lecturer
+6.840J,Theory of Computation,Michael F.,Sipser,Lecturer
+6.852J,Distributed Algorithms, Nancy A.,Lynch,Lecturer
+6.854J,Advanced Algorithms, David R.,Karger,Co-Lecturer
+6.854J,Advanced Algorithms,Aleksander,Madry,Lecturer
+6.864 (6.806),Advanced Natural Language Processing, Regina A.,Barzilay,Lecturer
+6.864 (6.806),Advanced Natural Language Processing, Tommi S.,Jaakkola,Lecturer
+6.867,Machine Learning & Neural Networks,Suvrit,Sra,Co-Lecturer
+6.867,Machine Learning & Neural Networks, Leslie P.,Kaelbling,Co-Lecturer
+6.869 (6.819),Advances in Computer Vision, Antonio,Torralba,Lecturer
+6.872J,Medical Computing, Peter,Szolovits,Lecturer
+6.902J,Enginnering Innovation and Design,Joel E.,Schindall,Lecturer
+6.904,Ethics for Engineers,Bernhardt,Trout,Lecturer
+6.933,Entrepreneurship in Engineering: The Founder's Journey,Christina,Chase,Lecturer
+6.946J,Variational Mechanics, Gerald J.,Sussman,Lecturer
+6.release,teaching release,Luqiao,Liu,Lecturer
+6.release,teaching release,Daniel,Sanchez,Lecturer
+6.UAR,Preparation for UG Research, Anantha P.,Chandrakasan,Lecturer
+6.UAT,Preparation for UAP, Louis D.,Braida,Recitation Instructor
+6.UAT,Preparation for UAP,Tony L.,Eng,Lecturer
+6.UAT,Preparation for UAP, Leslie A.,Kolodziejski,Recitation Instructor
+6.UAT,Preparation for UAP, Collin M.,Stultz,Recitation Instructor
